@@ -1,5 +1,5 @@
 ﻿jai shree ram from feature 1 modifications
-jai shree ram basic wala which will cause conflict
+jai shree ram while trying to conflict using feature2 and feature1 both after merging
 jai shree ram from github.com
 jai ramaduta hanuman
 jai shree ram says kannu
