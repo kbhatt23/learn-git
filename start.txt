@@ -7,7 +7,8 @@ jai shree ram custom github
 jai shree ram says hanuman bhakt kanishk
 jai shree ram from feature 1 modifcation at the end
 jai shree ram from feature 2 changes
-<<<<<<< HEAD
+
+
 jia shree ram from local github
 jai shree ram from new property added
 jia shree ram while editing from github
@@ -15,6 +16,5 @@ jai shree ram while introducing conflict on commit
 jai shree ram while creatin new folder in level 1 with name new_requirement
 jia shree ram modification using fetch and checkout
 jai shree ram from non conflicting feature
-=======
-jai shree ram from local repo
->>>>>>> feature1
+
+
