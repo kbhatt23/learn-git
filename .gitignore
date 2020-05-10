@@ -2,3 +2,5 @@
 *.png
 log/
 **/*log*/**
+uploads/*
+!.gitkeep
