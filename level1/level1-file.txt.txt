@@ -6,3 +6,4 @@ jai shree ram from New addition in feature1 branch that do not causes conflict o
 
 
 jai shree ram whihc do not conflict in merge
+jia shree ram from feature that put conflict in merge from feature branch
