@@ -2,3 +2,7 @@ jai shree ram from level 1
 jai shree ram from level 1 of feature1
 jai shree ram after completing the requirements fully
 jai shree ram from New addition in feature1 branch that do not causes conflict on merge
+
+
+
+jai shree ram whihc do not conflict in merge
